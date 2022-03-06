@@ -6,6 +6,7 @@
 > tar -xvf /home/imdmitry/boost_1_69_0.tar.gz
 
 3, 4)
+
 ![image](https://user-images.githubusercontent.com/92674699/156945973-d74ab67c-c851-4b17-b889-bb4f6a667625.png)
 
 5)
